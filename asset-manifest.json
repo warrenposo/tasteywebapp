@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/warrenposo/tasteywebapp.git/static/css/main.056acb0c.css",
+    "main.js": "/warrenposo/tasteywebapp.git/static/js/main.6cb4fbdc.js",
+    "static/media/home-banner-image.png": "/warrenposo/tasteywebapp.git/static/media/home-banner-image.fe8d8e35592bb05bcba8.png",
+    "static/media/about-background-image.png": "/warrenposo/tasteywebapp.git/static/media/about-background-image.f4363b78dc0ad4ef34f1.png",
+    "static/media/choose-image.png": "/warrenposo/tasteywebapp.git/static/media/choose-image.095ffee70bdfda7714b7.png",
+    "static/media/pick-meals-image.png": "/warrenposo/tasteywebapp.git/static/media/pick-meals-image.8b60b59573396a09bc7d.png",
+    "static/media/delivery-image.png": "/warrenposo/tasteywebapp.git/static/media/delivery-image.724ca2ad0eb15d0ff551.png",
+    "static/media/home-banner-background.png": "/warrenposo/tasteywebapp.git/static/media/home-banner-background.8e5c6de255ebc923f600.png",
+    "static/media/about-background.png": "/warrenposo/tasteywebapp.git/static/media/about-background.894e5452629654c87d54.png",
+    "static/media/Logo.svg": "/warrenposo/tasteywebapp.git/static/media/Logo.bd56421f783c57179856fc3f259cf4b9.svg",
+    "index.html": "/warrenposo/tasteywebapp.git/index.html",
+    "main.056acb0c.css.map": "/warrenposo/tasteywebapp.git/static/css/main.056acb0c.css.map",
+    "main.6cb4fbdc.js.map": "/warrenposo/tasteywebapp.git/static/js/main.6cb4fbdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056acb0c.css",
+    "static/js/main.6cb4fbdc.js"
+  ]
+}
